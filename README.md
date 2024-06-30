@@ -38,7 +38,7 @@ npm run dev
 DB_URL="DB 주소"
 DB_USER="DB 유저"
 DB_PASSWD="DB 비밀번호"
-DB_NAME="DB 이름"
+DB_NAME="DB 이름"
 DB_PORT=DB 포트
 ```
 * DB 구축: dump-JUMAK-KIOSK.sql 파일 참고
