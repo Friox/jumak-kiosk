@@ -1,0 +1,27 @@
+html {
+    touch-action: manipulation;
+}
+
+.tab-container {
+    margin-top: 16px
+}
+
+#order-history-table {
+    text-align: center;
+}
+
+#order-history-table > tbody > tr > td:nth-child(4) {
+    text-align: start;
+}
+
+#order-table {
+    text-align: center;
+}
+
+#p-history-table {
+    text-align: center;
+}
+
+#p-history-table > tbody > tr > td:nth-child(5) {
+    text-align: start;
+}
